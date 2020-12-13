@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="trivia">Trivia</string>
+    <string name="app_name">Trivia</string>
+    <string name="hello_there_this_is_where_we_are_going_to_add_something">Hello There this is where we are going to add something...</string>
+    <string name="title">Trivia</string>
+    <string name="true_title">True</string>
+    <string name="false_title">False</string>
+    <string name="previous_button">previous button</string>
+    <string name="next_button">next_button</string>
+    <string name="counter_questions">0 out of 100</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Wrong</string>
+</resources>
